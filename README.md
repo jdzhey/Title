@@ -1,6 +1,6 @@
 <center> <h2> Donation List (Not yet done) </h2> </center>
 
-## :car: [Custom Cars]
+## [Custom Cars]
 
 ```
 [₱1000]
