@@ -29,7 +29,7 @@
 ## [Custom Gang]
 
 ```
-[₱1000]
+>[₱1000]
   • Custom Gang Name
   • Gang Icon
   • Gang Marker
@@ -40,8 +40,6 @@
   • Armory Package
   • $5 Million Gang Budget
 ```
-
->test
 
 <center> <sup>Squíd#3277 - Marilag | Pilipinas 2020</sup> </center>
 
