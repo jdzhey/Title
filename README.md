@@ -11,19 +11,19 @@
 ## [Business]
 
 ```
-[₱1000/Mo] - Small Store
+[₱300/Mo] - Small Store
+  • $100 Thousand / Daily Income
+
+[₱500/Mo] - Clothing Store
+  • $250 Thousand / Daily Income
+
+[₱700/Mo] -  Tattoo Shop
   • $500 Thousand / Daily Income
 
-[₱1500/Mo] - Clothing Store
+[₱1000/Mo] - Custom Business
   • $1 Million / Daily Income
 
-[₱2000/Mo] -  Tattoo Shop
-  • $3 Million / Daily Income
-
-[₱3000/Mo] - Custom Business
-  • $5 Million / Daily Income
-
-[₱5000/Mo] - Exclusive Business
+[₱2000/Mo] - Exclusive Business
   • Contact Squíd#3277 @ https://discord.io/Marilag
 ```
 ## [Custom Gang]
@@ -41,5 +41,5 @@
   • $5 Million Gang Budget
 ```
 
-> <center> <sup>Squíd#3277 - Marilag | Pilipinas 2020</sup> </center>
+<center> <sup>Squíd#3277 - Marilag | Pilipinas® 2020</sup> </center>
 
