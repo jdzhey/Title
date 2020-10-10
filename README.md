@@ -26,19 +26,15 @@
 [₱2000/Mo] - Exclusive Business
   • Contact Squíd#3277 @ https://discord.io/Marilag
 ```
-## [Custom Gang]
+## [Gang Add-ons]
 
 ```
 [₱1000]
-  • Custom Gang Name
-  • Gang Icon
-  • Gang Marker
-  • Custom Ranks
   • Gang Base
   • Vehicles
   • Garage
   • Armory Package
-  • $5 Million Gang Budget
+  • $10 Million
 ```
 
 <center> <sup>Squíd#3277 - Marilag | Pilipinas® 2020</sup> </center>
