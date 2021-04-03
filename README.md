@@ -3,7 +3,7 @@
 ## [Custom Cars]
 
 ```
-[₱1000]
+[₱500]
 • ANY AVAILABLE CUSTOM CARS
 • FULL UPGRADE
 • $5 Million in-game cash
@@ -29,7 +29,7 @@
 ## [Gang Add-ons]
 
 ```
-[₱1000]
+[₱500]
   • Gang Base
   • Vehicles
   • Garage
