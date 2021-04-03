@@ -24,7 +24,7 @@
   • $1 Million / Daily Income
 
 [₱2000/Mo] - Exclusive Business
-  • Contact Squíd#3277 @ https://discord.io/Marilag
+  • Contact Squíd#1776 @ https://discord.gg/WHGPBb5
 ```
 ## [Gang Add-ons]
 
@@ -37,5 +37,5 @@
   • $10 Million
 ```
 
-<center> <sup>Squíd#3277 - Marilag | Pilipinas® 2020</sup> </center>
+<center> <sup>Squíd#1776 - Geek City 2021</sup> </center>
 
