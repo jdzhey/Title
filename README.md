@@ -1,4 +1,4 @@
-<center> <h2> Donation List (Not yet done) </h2> </center>
+<center> <h2> Donation List (may change) </h2> </center>
 
 ## [Custom Cars]
 
