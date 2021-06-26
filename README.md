@@ -1,41 +1,33 @@
-<center> <h2> Donation List (may change) </h2> </center>
+<center> <h2> Keybinds and Commands  </h2> </center>
 
-## [Custom Cars]
-
-```
-[₱500]
-• ANY AVAILABLE CUSTOM CARS
-• FULL UPGRADE
-• $5 Million in-game cash
-```
-## [Business]
+**KEYBINDS**
 
 ```
-[₱300/Mo] - Small Store
-  • $100 Thousand / Daily Income
-
-[₱500/Mo] - Clothing Store
-  • $250 Thousand / Daily Income
-
-[₱700/Mo] -  Tattoo Shop
-  • $500 Thousand / Daily Income
-
-[₱1000/Mo] - Custom Business
-  • $1 Million / Daily Income
-
-[₱2000/Mo] - Exclusive Business
-  • Contact Squíd#1776 @ https://discord.gg/WHGPBb5
+• ɪɴᴛᴇʀᴀᴄᴛɪᴏɴꜱ - ᴍ
+• ᴘʜᴏɴᴇ - ꜰ1
+• ꜱᴇᴀᴛʙᴇʟᴛ - ɢ
+• ᴘᴏɪɴᴛ ꜰɪɴɢᴇʀ - ʙ
+• ʜᴀɴᴅꜱᴜᴘ - x
+• ᴠᴏɪᴄᴇ ᴘʀᴏxɪᴍɪᴛʏ - ` (ʙᴇʟᴏᴡ ᴛʜᴇ ᴇꜱᴄ)
+• ʀᴀᴅɪᴏ - ʟᴇꜰᴛ ᴀʟᴛ
+• ɪɴᴠᴇɴᴛᴏʀʏ - ꜰ2
+• ʜᴏᴛʙᴀʀ - ᴛᴀʙ
+• ꜱᴄᴏʀᴇʙᴏᴀʀᴅ - ʜᴏᴍᴇ
+• ʀᴀᴅɪᴏ - ʟᴇꜰᴛᴀʟᴛ
+• ᴄʀᴏᴜᴄʜ/ᴘʀᴏɴᴇ/ꜱɴᴇᴀᴋʏ - ʟᴇꜰᴛᴄᴛʀʟ
+• ʜᴀɴᴅꜱ ᴏɴ ʜᴇᴀᴅ - ᴢ
+• ᴄʟᴏᴛʜɪɴɢ ᴍᴇɴᴜ - ʏ
+• ʟᴏᴄᴋ ᴄᴀʀ - ʟ
 ```
-## [Gang Add-ons]
+**COMMANDS**
 
 ```
-[₱500]
-  • Gang Base
-  • Vehicles
-  • Garage
-  • Armory Package
-  • $10 Million
+/engine - Turns engine on/off
+/givecarkeys - It allows you to give the key (Not the Car)
+/911 - Dials emgergency hotline
+/ping - Ping a player
+/notes - Write a note
 ```
 
-<center> <sup>Squíd#1776 - Geek City 2021</sup> </center>
+<center> <sup>Squíd#1776 - BlackList City 2021</sup> </center>
 
