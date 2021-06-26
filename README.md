@@ -3,21 +3,21 @@
 **KEYBINDS**
 
 ```
-• ɪɴᴛᴇʀᴀᴄᴛɪᴏɴꜱ - ᴍ
-• ᴘʜᴏɴᴇ - ꜰ1
-• ꜱᴇᴀᴛʙᴇʟᴛ - ɢ
-• ᴘᴏɪɴᴛ ꜰɪɴɢᴇʀ - ʙ
-• ʜᴀɴᴅꜱᴜᴘ - x
-• ᴠᴏɪᴄᴇ ᴘʀᴏxɪᴍɪᴛʏ - ` (ʙᴇʟᴏᴡ ᴛʜᴇ ᴇꜱᴄ)
-• ʀᴀᴅɪᴏ - ʟᴇꜰᴛ ᴀʟᴛ
-• ɪɴᴠᴇɴᴛᴏʀʏ - ꜰ2
-• ʜᴏᴛʙᴀʀ - ᴛᴀʙ
-• ꜱᴄᴏʀᴇʙᴏᴀʀᴅ - ʜᴏᴍᴇ
-• ʀᴀᴅɪᴏ - ʟᴇꜰᴛᴀʟᴛ
-• ᴄʀᴏᴜᴄʜ/ᴘʀᴏɴᴇ/ꜱɴᴇᴀᴋʏ - ʟᴇꜰᴛᴄᴛʀʟ
-• ʜᴀɴᴅꜱ ᴏɴ ʜᴇᴀᴅ - ᴢ
-• ᴄʟᴏᴛʜɪɴɢ ᴍᴇɴᴜ - ʏ
-• ʟᴏᴄᴋ ᴄᴀʀ - ʟ
+• Interaction - M
+• Phone - F1
+• Seatbelt - G
+• Point Finger - B
+• Hands Up - X
+• Voice Proximity - ` (Below the ESC)
+• Radio - LEFT ALT
+• Inventory - F2
+• Hotbar - TAB
+• Scoreboard - HOME
+• Radio Talk - LEFT ALT
+• Crouch - LEFT CTRL
+• HANDS ON HEAD - Z
+• CLOTHING MENU - Y
+• Lock Car - L
 ```
 **COMMANDS**
 
@@ -27,6 +27,7 @@
 /911 - Dials emgergency hotline
 /ping - Ping a player
 /notes - Write a note
+/binds - Add a keybind
 ```
 
 <center> <sup>Squíd#1776 - BlackList City 2021</sup> </center>
