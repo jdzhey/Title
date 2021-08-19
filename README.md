@@ -30,5 +30,5 @@
 /binds - Add a keybind
 ```
 
-<center> <sup>Squíd#1776 - BlackList City 2021</sup> </center>
+<center> <sup>Squíd#1776 - HighWay45 RP 2021</sup> </center>
 
