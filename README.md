@@ -28,7 +28,9 @@
 /ping - Ping a player
 /notes - Write a note
 /binds - Add a keybind
-```
+/playtime - checks your playtime
+/playtimelb - city leaderboard
+/reportui - report an incident```
 
 <center> <sup>Squíd#1776 - HighWay45 RP 2021</sup> </center>
 
