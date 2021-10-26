@@ -1,4 +1,4 @@
-<center> CHANGELOGS </h2> </center>
+<center> <h2>CHANGELOGS </h2> </center>
 
 ```
 
