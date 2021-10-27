@@ -1,7 +1,7 @@
-<center> <h2>CHANGELOGS </h2> </center>
+<center> <h2>Header</h2> </center>
 
 ```
 
 ```
 
-<center> <sup>Squíd#1776 - Apollo</sup> </center>
+<center> <sup>Footer</sup> </center>
